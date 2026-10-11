@@ -3,5 +3,11 @@ Designed and developed a robotic manipulator project focused on robot kinematics
 
 https://content.helpme-codesys.com/en/CODESYS%20SoftMotion/_sm_trafo_pou_three_jointed_scara.html
 
+Product Used for this project:- 
+PLC :- AMP MCA6 PLC
+Joint 1:- M5 EtherCAT Servo Drive
+Joint 2:- AK StepServo Drive
+Joint 3:- AK StepServo Drive
+
 
 <img width="674" height="571" alt="image" src="https://github.com/user-attachments/assets/0d6d7746-bcc3-4e72-90a5-81c0de5b7053" />
