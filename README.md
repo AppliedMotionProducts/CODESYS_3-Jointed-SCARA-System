@@ -32,9 +32,9 @@ Reference application for engineers building pick-and-place, assembly, inspectio
 | Component | Product | Role | Link |
 |---|---|---|---|
 | 🧠 **Motion Controller** | AMP **MCA6** CODESYS Motion PLC | Runs the SCARA kinematics and SoftMotion runtime | [applied-motion.com/mca6](https://www.applied-motion.com/s/mca6-met2) |
-| 🦾 **Joint 1 Drive** | **M5 EtherCAT Servo Drive + Motor** | Base rotation (high-dynamic performance) | [applied-motion.com/m5-servos](https://www.applied-motion.com/s/m5-servo-motor-and-drive-series) |
-| 💪 **Joint 2 Drive** | **AK Series StepServo Drive** | Arm segment (closed-loop stepper) | [applied-motion.com/ak-series](https://www.applied-motion.com/s/ak-series) |
-| 🦿 **Joint 3 Drive** | **AK Series StepServo Drive** | End segment (closed-loop stepper) | [applied-motion.com/ak-series](https://www.applied-motion.com/s/ak-series) |
+| ⚙️ **Joint 1 Drive** | **M5 EtherCAT Servo Drive + Motor** | Base rotation (high-dynamic performance) | [applied-motion.com/m5-servos](https://www.applied-motion.com/s/m5-servo-motor-and-drive-series) |
+| ⚙️ **Joint 2 Drive** | **AK Series StepServo Drive** | Arm segment (closed-loop stepper) | [applied-motion.com/ak-series](https://www.applied-motion.com/s/ak-series) |
+| ⚙️ **Joint 3 Drive** | **AK Series StepServo Drive** | End segment (closed-loop stepper) | [applied-motion.com/ak-series](https://www.applied-motion.com/s/ak-series) |
 
 All drives share a single **EtherCAT fieldbus** connected to the MCA6, giving the SoftMotion kernel direct cyclic access to each axis.
 
